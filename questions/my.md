@@ -49,7 +49,7 @@
 00472 hard-tuple-to-enum-object
 00476 extreme-sum
 00517 extreme-multiply
-00527 medium-append-to-object
++ 00527 medium-append-to-object
 + 00529 medium-absolute
 00531 medium-string-to-union
 + 00533 easy-concat

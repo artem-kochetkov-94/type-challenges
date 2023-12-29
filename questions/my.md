@@ -25,7 +25,7 @@
 00090 hard-optional-keys
 00106 medium-trimleft
 00108 medium-trim
-00110 medium-capitalize
++ 00110 medium-capitalize
 00112 hard-capitalizewords
 00114 hard-camelcase
 00116 medium-replace
@@ -57,7 +57,7 @@
 00553 hard-deep-object-to-unique
 00599 medium-merge
 00612 medium-kebabcase
-00645 medium-diff
++ 00645 medium-diff
 00651 hard-length-of-string-2
 00697 extreme-tag
 00730 hard-union-to-tuple

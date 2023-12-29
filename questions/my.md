@@ -1,5 +1,5 @@
-00002 medium-return-type
-00003 medium-omit
++ 00002 medium-return-type
++ 00003 medium-omit
 + 00004 easy-pick
 00005 extreme-readonly-keys
 00006 hard-simple-vue
@@ -33,7 +33,7 @@
 00147 hard-c-printf-parser
 00151 extreme-query-string-parser
 00189 easy-awaited
-00191 medium-append-argument
++ 00191 medium-append-argument
 00213 hard-vue-basic-props
 00216 extreme-slice
 00223 hard-isany
@@ -50,7 +50,7 @@
 00476 extreme-sum
 00517 extreme-multiply
 00527 medium-append-to-object
-00529 medium-absolute
++ 00529 medium-absolute
 00531 medium-string-to-union
 + 00533 easy-concat
 00545 hard-printf
@@ -67,7 +67,7 @@
 00869 extreme-distributeunions
 00898 easy-includes
 00925 extreme-assert-array-index
-00949 medium-anyof
++ 00949 medium-anyof
 00956 hard-deeppick
 01042 medium-isnever
 01097 medium-isunion

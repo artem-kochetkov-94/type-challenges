@@ -28,7 +28,7 @@
 + 00110 medium-capitalize
 00112 hard-capitalizewords
 00114 hard-camelcase
-00116 medium-replace
++ 00116 medium-replace
 00119 medium-replaceall
 00147 hard-c-printf-parser
 00151 extreme-query-string-parser

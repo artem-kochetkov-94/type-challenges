@@ -1,3 +1,5 @@
-type TrimLeft<S extends string> = S extends `${infer L extends ' ' | '\n' | '\t'}${infer R}`
+type SpaceLeft = ' ' | '\n' | '\t'
+
+type TrimLeft<S extends string> = S extends `${SpaceLeft}${infer R}`
   ? TrimLeft<R>
   : S

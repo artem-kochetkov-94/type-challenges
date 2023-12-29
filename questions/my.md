@@ -69,7 +69,7 @@
 00925 extreme-assert-array-index
 + 00949 medium-anyof
 00956 hard-deeppick
-01042 medium-isnever
++ 01042 medium-isnever
 01097 medium-isunion
 01130 medium-replacekeys
 01290 hard-pinia

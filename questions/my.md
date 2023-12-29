@@ -23,7 +23,7 @@
 00062 medium-type-lookup
 00089 hard-required-keys
 00090 hard-optional-keys
-00106 medium-trimleft
++ 00106 medium-trimleft
 00108 medium-trim
 + 00110 medium-capitalize
 00112 hard-capitalizewords

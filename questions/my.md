@@ -65,7 +65,7 @@
 00741 extreme-sort
 00847 hard-string-join
 00869 extreme-distributeunions
-00898 easy-includes
++ 00898 easy-includes
 00925 extreme-assert-array-index
 + 00949 medium-anyof
 00956 hard-deeppick

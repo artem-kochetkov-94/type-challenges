@@ -1,6 +1,6 @@
 type MyAwaited<T extends object> =
   T extends PromiseLike<infer R>
-    ? R extends Promise<any>
+    ? R extends PromiseLike<any>
       ? MyAwaited<R>
       : R
     : never

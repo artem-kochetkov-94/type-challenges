@@ -51,14 +51,14 @@
 00517 extreme-multiply
 + 00527 medium-append-to-object
 + 00529 medium-absolute
-00531 medium-string-to-union
++ 00531 medium-string-to-union
 + 00533 easy-concat
 00545 hard-printf
 00553 hard-deep-object-to-unique
 00599 medium-merge
 00612 medium-kebabcase
 + 00645 medium-diff
-00651 hard-length-of-string-2
++ 00651 hard-length-of-string-2
 00697 extreme-tag
 00730 hard-union-to-tuple
 00734 extreme-inclusive-range

@@ -116,7 +116,7 @@
 05153 medium-indexof
 05181 hard-mutable-keys
 + 05310 medium-join
-05317 medium-lastindexof
++ 05317 medium-lastindexof
 05360 medium-unique
 05423 hard-intersection
 05821 medium-maptypes

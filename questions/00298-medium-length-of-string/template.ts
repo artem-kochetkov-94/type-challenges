@@ -1,1 +1,7 @@
-type LengthOfString<S extends string> = any
+type LengthOfStringMedium<
+  S extends string,
+  A extends string[] = []
+> = 
+  S extends `${infer Left}${infer Right}`
+    ? LengthOfStringMedium<Right, [...A, Left]>
+    : A['length']

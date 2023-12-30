@@ -41,7 +41,7 @@
 00270 hard-typed-get
 00274 extreme-integers-comparator
 00296 medium-permutation
-00298 medium-length-of-string
++ 00298 medium-length-of-string
 00300 hard-string-to-number
 00399 hard-tuple-filter
 + 00459 medium-flatten

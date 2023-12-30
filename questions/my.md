@@ -6,10 +6,10 @@
 + 00007 easy-readonly
 00008 medium-readonly-2
 00009 medium-deep-readonly
-00010 medium-tuple-to-union
++ 00010 medium-tuple-to-union
 + 00011 easy-tuple-to-object
 00012 medium-chainable-options
-00013 warm-hello-world
++ 00013 warm-hello-world
 + 00014 easy-first
 + 00015 medium-last
 + 00016 medium-pop

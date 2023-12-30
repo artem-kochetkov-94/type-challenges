@@ -8,7 +8,7 @@
 + 00009 medium-deep-readonly
 + 00010 medium-tuple-to-union
 + 00011 easy-tuple-to-object
-00012 medium-chainable-options
++ 00012 medium-chainable-options
 + 00013 warm-hello-world
 + 00014 easy-first
 + 00015 medium-last

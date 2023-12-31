@@ -70,8 +70,8 @@
 + 00949 medium-anyof
 00956 hard-deeppick
 + 01042 medium-isnever
-01097 medium-isunion
-01130 medium-replacekeys
++ 01097 medium-isunion
++ 01130 medium-replacekeys
 01290 hard-pinia
 01367 medium-remove-index-signature
 01383 hard-camelize

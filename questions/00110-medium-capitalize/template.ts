@@ -31,3 +31,9 @@ type MyCapitalize<S extends string> =
   S extends `${infer FirstChar extends keyof CapitalizedChars}${infer Rest}`
     ? `${CapitalizedChars[FirstChar]}${Rest}`
     : S
+
+type MyCapitalize2<T> =
+    T extends `${infer Head}${infer Tail}`
+      ? `${Uppercase<Head>}${Tail}`
+      : T
+  

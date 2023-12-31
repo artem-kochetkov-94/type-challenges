@@ -40,7 +40,7 @@
 + 00268 easy-if
 00270 hard-typed-get
 00274 extreme-integers-comparator
-00296 medium-permutation
++ 00296 medium-permutation
 + 00298 medium-length-of-string
 00300 hard-string-to-number
 00399 hard-tuple-filter
@@ -55,8 +55,8 @@
 + 00533 easy-concat
 00545 hard-printf
 00553 hard-deep-object-to-unique
-00599 medium-merge
-00612 medium-kebabcase
++ 00599 medium-merge
++ 00612 medium-kebabcase
 + 00645 medium-diff
 + 00651 hard-length-of-string-2
 00697 extreme-tag

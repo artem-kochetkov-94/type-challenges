@@ -78,8 +78,8 @@
 + 01978 medium-percentage-parser
 02059 hard-drop-string
 + 02070 medium-drop-char
-02257 medium-minusone
-02595 medium-pickbytype
++ 02257 medium-minusone
++ 02595 medium-pickbytype
 02688 medium-startswith
 + 02693 medium-endswith
 02757 medium-partialbykeys

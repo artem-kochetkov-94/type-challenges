@@ -82,21 +82,21 @@
 + 02595 medium-pickbytype
 + 02688 medium-startswith
 + 02693 medium-endswith
-02757 medium-partialbykeys
-02759 medium-requiredbykeys
-02793 medium-mutable
++ 02757 medium-partialbykeys
++ 02759 medium-requiredbykeys
++ 02793 medium-mutable
 02822 hard-split
 02828 hard-classpublickeys
-02852 medium-omitbytype
++ 02852 medium-omitbytype
 02857 hard-isrequiredkey
 02946 medium-objectentries
 02949 hard-objectfromentries
 + 03057 easy-push
 + 03060 easy-unshift
-03062 medium-shift
-03188 medium-tuple-to-nested-object
-03192 medium-reverse
-03196 medium-flip-arguments
++ 03062 medium-shift
++ 03188 medium-tuple-to-nested-object
++ 03192 medium-reverse
++ 03196 medium-flip-arguments
 03243 medium-flattendepth
 + 03312 easy-parameters
 03326 medium-bem-style-string

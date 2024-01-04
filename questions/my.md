@@ -80,7 +80,7 @@
 + 02070 medium-drop-char
 + 02257 medium-minusone
 + 02595 medium-pickbytype
-02688 medium-startswith
++ 02688 medium-startswith
 + 02693 medium-endswith
 02757 medium-partialbykeys
 02759 medium-requiredbykeys

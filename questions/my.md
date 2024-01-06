@@ -105,7 +105,7 @@
 + 04179 medium-flip
 04182 medium-fibonacci-sequence
 04260 medium-nomiwase
-04425 medium-greater-than
++ 04425 medium-greater-than
 04471 medium-zip
 04484 medium-istuple
 04499 medium-chunk

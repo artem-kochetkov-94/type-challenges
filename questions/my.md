@@ -106,8 +106,8 @@
 04182 medium-fibonacci-sequence
 04260 medium-nomiwase
 + 04425 medium-greater-than
-04471 medium-zip
-04484 medium-istuple
++ 04471 medium-zip
++ 04484 medium-istuple
 04499 medium-chunk
 04518 medium-fill
 + 04803 medium-trim-right

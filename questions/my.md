@@ -111,8 +111,8 @@
 04499 medium-chunk
 04518 medium-fill
 + 04803 medium-trim-right
-05117 medium-without
-05140 medium-trunc
++ 05117 medium-without
++ 05140 medium-trunc
 05153 medium-indexof
 05181 hard-mutable-keys
 + 05310 medium-join

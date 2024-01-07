@@ -123,7 +123,7 @@
 06141 hard-binary-to-decimal
 06228 extreme-json-parser
 07258 hard-object-key-paths
-07544 medium-construct-tuple
++ 07544 medium-construct-tuple
 07561 extreme-subtract
 08640 medium-number-range
 08767 medium-combination
@@ -134,12 +134,12 @@
 09160 hard-assign
 09286 medium-firstuniquecharindex
 09384 hard-maximum
-09616 medium-parse-url-params
++ 09616 medium-parse-url-params
 09775 hard-capitalize-nest-object-keys
 09896 medium-get-middle-element
 09898 medium-zhao-chu-mu-biao-shu-zu-zhong-zhi-chu-xian-guo-yi-ci-de-yuan-su
 09989 medium-tong-ji-shu-zu-zhong-de-yuan-su-ge-shu
-10969 medium-integer
++ 10969 medium-integer
 13580 hard-replace-union
 14080 hard-fizzbuzz
 14188 hard-run-length-encoding

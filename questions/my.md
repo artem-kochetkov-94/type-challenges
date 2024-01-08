@@ -162,7 +162,7 @@
 27932 medium-mergeall
 27958 medium-checkrepeatedtuple
 28143 hard-optionalundefined
-28333 medium-public-type
++ 28333 medium-public-type
 29650 medium-extracttoobject
 29785 medium-deep-omit
 30301 medium-isodd

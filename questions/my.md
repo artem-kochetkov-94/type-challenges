@@ -108,7 +108,7 @@
 + 04425 medium-greater-than
 + 04471 medium-zip
 + 04484 medium-istuple
-04499 medium-chunk
++ 04499 medium-chunk
 04518 medium-fill
 + 04803 medium-trim-right
 + 05117 medium-without
@@ -165,6 +165,6 @@
 + 28333 medium-public-type
 29650 medium-extracttoobject
 29785 medium-deep-omit
-30301 medium-isodd
++ 30301 medium-isodd
 30430 medium-tower-of-hanoi
 30575 hard-bitwisexor

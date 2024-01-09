@@ -8,5 +8,3 @@ type GetMiddleElement<T extends unknown[]> =
         : T extends [unknown, ...infer Tail, unknown]
           ? GetMiddleElement<Tail>
           : never
-
-type FDSFSF = GetMiddleElement<[1, 2, 3, 4, 5]>

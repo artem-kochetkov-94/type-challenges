@@ -125,7 +125,7 @@
 07258 hard-object-key-paths
 + 07544 medium-construct-tuple
 07561 extreme-subtract
-08640 medium-number-range
++ 08640 medium-number-range
 08767 medium-combination
 08804 hard-two-sum
 08987 medium-subsequence

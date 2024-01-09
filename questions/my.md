@@ -119,7 +119,7 @@
 + 05317 medium-lastindexof
 + 05360 medium-unique
 05423 hard-intersection
-05821 medium-maptypes
++ 05821 medium-maptypes
 06141 hard-binary-to-decimal
 06228 extreme-json-parser
 07258 hard-object-key-paths

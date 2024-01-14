@@ -89,7 +89,7 @@
 + 02828 hard-classpublickeys
 + 02852 medium-omitbytype
 02857 hard-isrequiredkey
-02946 medium-objectentries
++ 02946 medium-objectentries
 02949 hard-objectfromentries
 + 03057 easy-push
 + 03060 easy-unshift
@@ -101,7 +101,7 @@
 + 03312 easy-parameters
 + 03326 medium-bem-style-string
 + 03376 medium-inordertraversal
-04037 hard-ispalindrome
++ 04037 hard-ispalindrome
 + 04179 medium-flip
 04182 medium-fibonacci-sequence
 04260 medium-nomiwase

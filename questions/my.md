@@ -18,8 +18,8 @@
 + 00020 medium-promise-all
 + 00043 easy-exclude
 00055 hard-union-to-intersection
-00057 hard-get-required
-00059 hard-get-optional
++ 00057 hard-get-required
++ 00059 hard-get-optional
 + 00062 medium-type-lookup
 00089 hard-required-keys
 00090 hard-optional-keys

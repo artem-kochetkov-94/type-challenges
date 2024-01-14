@@ -38,7 +38,7 @@
 00216 extreme-slice
 00223 hard-isany
 + 00268 easy-if
-00270 hard-typed-get
++ 00270 hard-typed-get
 00274 extreme-integers-comparator
 + 00296 medium-permutation
 + 00298 medium-length-of-string

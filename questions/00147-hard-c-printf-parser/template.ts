@@ -8,4 +8,12 @@ type ControlsMap = {
   p: 'pointer'
 }
 
-type ParsePrintFormat = any
+type ParsePrintFormat<
+  T extends string,
+  Acc extends unknown[] = [],
+> =
+  T extends `${string}%${infer Head}${infer Tail}`
+    ? Head extends keyof ControlsMap
+      ? ParsePrintFormat<Tail, [...Acc, ControlsMap[Head]]>
+      : ParsePrintFormat<Tail, Acc>
+    : Acc

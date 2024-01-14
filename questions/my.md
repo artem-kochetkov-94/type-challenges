@@ -30,7 +30,7 @@
 + 00114 hard-camelcase
 + 00116 medium-replace
 + 00119 medium-replaceall
-00147 hard-c-printf-parser
++ 00147 hard-c-printf-parser
 00151 extreme-query-string-parser
 + 00189 easy-awaited
 + 00191 medium-append-argument

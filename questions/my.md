@@ -74,7 +74,7 @@
 + 01130 medium-replacekeys
 01290 hard-pinia
 + 01367 medium-remove-index-signature
-01383 hard-camelize
++ 01383 hard-camelize
 + 01978 medium-percentage-parser
 02059 hard-drop-string
 + 02070 medium-drop-char

@@ -76,7 +76,7 @@
 + 01367 medium-remove-index-signature
 + 01383 hard-camelize
 + 01978 medium-percentage-parser
-02059 hard-drop-string
++ 02059 hard-drop-string
 + 02070 medium-drop-char
 + 02257 medium-minusone
 + 02595 medium-pickbytype

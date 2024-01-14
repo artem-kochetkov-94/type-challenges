@@ -63,7 +63,7 @@
 00730 hard-union-to-tuple
 00734 extreme-inclusive-range
 00741 extreme-sort
-00847 hard-string-join
++ 00847 hard-string-join
 00869 extreme-distributeunions
 + 00898 easy-includes
 00925 extreme-assert-array-index

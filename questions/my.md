@@ -114,7 +114,7 @@
 + 05117 medium-without
 + 05140 medium-trunc
 + 05153 medium-indexof
-05181 hard-mutable-keys
++ 05181 hard-mutable-keys
 + 05310 medium-join
 + 05317 medium-lastindexof
 + 05360 medium-unique

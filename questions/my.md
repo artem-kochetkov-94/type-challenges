@@ -85,7 +85,7 @@
 + 02757 medium-partialbykeys
 + 02759 medium-requiredbykeys
 + 02793 medium-mutable
-02822 hard-split
++ 02822 hard-split
 02828 hard-classpublickeys
 + 02852 medium-omitbytype
 02857 hard-isrequiredkey
